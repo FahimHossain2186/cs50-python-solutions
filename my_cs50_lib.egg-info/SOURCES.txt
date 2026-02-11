@@ -1,0 +1,5 @@
+setup.py
+my_cs50_lib.egg-info/PKG-INFO
+my_cs50_lib.egg-info/SOURCES.txt
+my_cs50_lib.egg-info/dependency_links.txt
+my_cs50_lib.egg-info/top_level.txt
