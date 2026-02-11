@@ -4,8 +4,7 @@
 [![Language](https://img.shields.io/badge/Language-Python%203.12-yellow.svg)](https://www.python.org/)
 [![Testing](https://img.shields.io/badge/Testing-pytest-green.svg)](https://docs.pytest.org/)
 
-Comprehensive, well-documented solutions for **Harvard's CS50’s Introduction to Programming with Python**. 
-This repository contains my personal solutions for [Harvard's CS50P](https://cs50.harvard.edu/python/).
+This repository contains my personal comprehensive solutions for **Harvard's CS50’s Introduction to Programming with Python**. [Harvard's CS50P](https://cs50.harvard.edu/python/). <br>
 This repository is structured as a modular Python package to allow for cross-pset imports and standardized testing.
 
 ---
